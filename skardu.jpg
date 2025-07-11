@@ -1,0 +1,3 @@
+[Image of Skardu]
+
+This project uses Tailwind CSS for styling and includes a hero section, features section, and footer. The hero section has a background image of Pakistan's landscape, and the features section displays six images of different tourist destinations in Pakistan. Each image has a hover effect and a brief description. The footer has a copyright notice. The project is fully responsive and works directly in CodeSandbox.
